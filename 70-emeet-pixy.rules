@@ -1,0 +1,2 @@
+# EMEET PIXY: HID-Steuerkanal (Tracking, Privacy, Gesten) fuer normale Benutzer freigeben
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="328f", ATTRS{idProduct}=="00c0", MODE="0660", GROUP="video", TAG+="uaccess"

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=PixyControl
+Comment=Pan/Tilt/Zoom-Steuerung für EMEET PIXY
+Exec=/home/frank/repositories/pixyMeet/pixycontrol.py
+Icon=camera-web
+Terminal=false
+Categories=AudioVideo;Video;
