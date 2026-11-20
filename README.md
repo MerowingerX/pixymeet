@@ -31,3 +31,7 @@ Die Beschreibung des HID-Protokolls stammt aus öffentlicher Dokumentation diese
 - [Romonaga/PixyPilot](https://github.com/Romonaga/PixyPilot) – `docs/EMEET_PIXY_HID_REFERENCE.md`
 
 Es wurde kein Code aus diesen Projekten übernommen. Kein offizielles EMEET-Produkt; EMEET und PIXY sind Marken ihrer Inhaber.
+
+## Lizenz
+
+MIT – siehe [LICENSE](LICENSE).
